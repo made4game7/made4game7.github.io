@@ -19,3 +19,12 @@ Dato che Antonio lavora come magazziniere nel nella filiale Game7 di Arese, ha a
 1. Redmine customizzato ed ospitato su un server locale di proprietà di Antonio Trento
 2. [Circle theme](https://www.redmineup.com/pages/themes/circle)
 3. Agile Plugin by Circle Theme
+
+# Legal stuffs
+
+## Fonts
+
+I font utilizzati:
+
+1. [Big Noodle Titling](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
+  - Sotto licenza di uso personale e non commerciale (infatti questo è un progetto ad uso personale e non ha scopi commerciali)
