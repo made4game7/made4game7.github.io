@@ -42,3 +42,9 @@ I font utilizzati:
   - Sotto licenza di uso personale e non commerciale (infatti questo è un progetto ad uso personale e non ha scopi commerciali)
 2. [Lato sans serif](https://fonts.google.com/specimen/Lato#license)
   - Sotto licenza [Open Font Licence](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+  
+## Immagini
+
+Le immagini che utilizza il progetto sono in parte estratte da pixabay ed in parte create dall'autore, Antonio Trento, in ambedue i casi sono utilizzabili per scopi commerciali:
+
+- Pixabay [licence](https://pixabay.com/service/license/)
