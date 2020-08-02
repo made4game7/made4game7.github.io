@@ -32,6 +32,7 @@ Gli strumenti proposti nel progetto possono essere utilizzati a livello commerci
 - WMPMana Theme, non utilizzabile a scopi commerciali se non sotto richgiesta del proprietario Antonio Trento 
 - Redmine, il core del progetto, utilizzabile a scopo commerciale, licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 - Font Big Noodle Titling licenza free ad uso personale [Link Font](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
+- Font Lato sans serif [OFL](https://fonts.google.com/specimen/Lato#license)
 
 ## Fonts
 
@@ -39,3 +40,5 @@ I font utilizzati:
 
 1. [Big Noodle Titling](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
   - Sotto licenza di uso personale e non commerciale (infatti questo è un progetto ad uso personale e non ha scopi commerciali)
+2. [Lato sans serif](https://fonts.google.com/specimen/Lato#license)
+  - Sotto licenza [Open Font Licence](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
