@@ -22,6 +22,17 @@ Dato che Antonio lavora come magazziniere nel nella filiale Game7 di Arese, ha a
 
 # Legal stuffs
 
+## Disclamer
+
+Questo progetto utilizza strumenti open source e non.
+
+Gli strumenti proposti nel progetto possono essere utilizzati a livello commerciale senza l'acquisto di alcuna licenza per via del fatto che sono sotto licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), mentre alcune parti del progetto utilizzati per la presentazione dello stesso non possono essere utilizzati a livello commerciale perchè non sono strumenti sotto licenza GNU.
+
+- Wordpress licenza [GNU](https://it.wordpress.org/about/license/)
+- WMPMana Theme, non utilizzabile a scopi commerciali se non sotto richgiesta del proprietario Antonio Trento 
+- Redmine, il core del progetto, utilizzabile a scopo commerciale, licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+- Font Big Noodle Titling licenza free ad uso personale [Link Font](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
+
 ## Fonts
 
 I font utilizzati:
