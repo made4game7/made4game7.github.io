@@ -28,23 +28,23 @@ Questo progetto utilizza strumenti open source e non.
 
 Gli strumenti proposti nel progetto possono essere utilizzati a livello commerciale senza l'acquisto di alcuna licenza per via del fatto che sono sotto licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), mentre alcune parti del progetto utilizzati per la presentazione dello stesso non possono essere utilizzati a livello commerciale perchè non sono strumenti sotto licenza GNU.
 
-- Wordpress licenza [GNU](https://it.wordpress.org/about/license/)
-- WMPMana Theme, non utilizzabile a scopi commerciali se non sotto richgiesta del proprietario Antonio Trento 
-- Redmine, il core del progetto, utilizzabile a scopo commerciale, licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-- Font Big Noodle Titling licenza free ad uso personale [Link Font](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
-- Font Lato sans serif [OFL](https://fonts.google.com/specimen/Lato#license)
+- [X] Wordpress licenza [GNU](https://it.wordpress.org/about/license/)
+- [X] WMPMana Theme, non utilizzabile a scopi commerciali se non sotto richgiesta del proprietario Antonio Trento 
+- [X] Redmine, il core del progetto, utilizzabile a scopo commerciale, licenza [GNU](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+- [X] Font Big Noodle Titling licenza free ad uso personale [Link Font](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
+- [X] Font Lato sans serif [OFL](https://fonts.google.com/specimen/Lato#license)
 
 ## Fonts
 
 I font utilizzati:
 
-1. [Big Noodle Titling](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
+- [X] [Big Noodle Titling](https://www.fontzillion.com/fonts/apostrophic-labs/big-noodle-titling)
   - Sotto licenza di uso personale e non commerciale (infatti questo è un progetto ad uso personale e non ha scopi commerciali)
-2. [Lato sans serif](https://fonts.google.com/specimen/Lato#license)
+- [X] [Lato sans serif](https://fonts.google.com/specimen/Lato#license)
   - Sotto licenza [Open Font Licence](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
   
 ## Immagini
 
 Le immagini che utilizza il progetto sono in parte estratte da pixabay ed in parte create dall'autore, Antonio Trento, in ambedue i casi sono utilizzabili per scopi commerciali:
 
-- Pixabay [licence](https://pixabay.com/service/license/)
+- [X] Pixabay [licence](https://pixabay.com/service/license/)
